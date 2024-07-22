@@ -1,4 +1,4 @@
-# Habilidades Essenciais de Excel para Cientistas de Dados
+# Habilidades Essenciais de Excel
 
 ## Manipulação de Dados
 - **Filtros e Classificação:** Saber filtrar e classificar dados para encontrar informações específicas rapidamente.
